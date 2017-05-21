@@ -1,0 +1,80 @@
+body {
+    color: #808000;
+    margin: 8% 20% 8% 20%;
+    font-family: 'Courier new', sans-serif;
+    text-align: justify;
+    background-color: #d7d4a7;    
+}
+
+h1 {
+    color: #464420;
+    position: absolute;
+    top: 15px;
+    left: 520px;
+    text-transform: uppercase;
+    font-size: 200%;
+}
+
+h2 {
+    color: #464420;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h3 {
+    color: #464420;
+    text-align: center;
+}
+
+footer {
+    text-align: right;
+    text-shadow: 2px 2px #b0a94f;
+}
+
+#zen-intro p {
+    opacity: 0.75;
+    display: inline;
+}
+
+#zen-summary  p {
+    width: 800px;
+    height: 50px;
+    text-align: middle;
+}
+
+#zen-preamble p {
+    padding: 10px 100px 10px 100px;
+}
+
+#design-selection .design-name {
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+#design-selection .designer-name {
+    text-shadow: 2px 2px #b0a94f;
+}
+
+a:link {
+    color: #585528;
+    text-decoration: none;
+    font-style: italic;
+}
+
+a:visited {
+    color: #464420;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+#zen-resources li {
+    text-decoration: overline;
+    line-height: 2;
+    font-size: 80%;
+}
